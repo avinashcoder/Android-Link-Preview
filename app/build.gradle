@@ -7,7 +7,7 @@ android {
         jumboMode = true
     }
     defaultConfig {
-        applicationId "com.leocardz.link.preview"
+        applicationId "com.coder.link.preview"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1

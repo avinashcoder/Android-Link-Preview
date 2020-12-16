@@ -3,9 +3,9 @@
 # Android-Link-Preview
 =================================
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android--Link--Preview-green.svg?style=true)](https://android-arsenal.com/details/1/2755)
-
 It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
+
+### Note : Modified project of [@LeonardoCardoso/Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) to add support of androidx and latest gradle updates. 
 
 ## Visual Examples
 ![Preview](images/VSejRyV.gif)
@@ -87,3 +87,5 @@ Information and Contact
 ===
 
 Developed by [@Avinash Coder](https://github.com/avinashcoder). 
+
+@Credit [@LeonardoCardoso/Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview)

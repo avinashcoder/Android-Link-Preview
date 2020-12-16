@@ -1,8 +1,8 @@
-package com.leocardz.link.preview.library;
+package com.coder.link.preview.library;
 
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 
-import com.leocardz.link.preview.library.url.UrlExtractionStrategy;
+import com.coder.link.preview.library.url.UrlExtractionStrategy;
 
 import org.jsoup.nodes.Document;
 import org.junit.Test;

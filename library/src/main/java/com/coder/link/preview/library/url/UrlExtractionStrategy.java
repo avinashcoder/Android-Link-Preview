@@ -1,4 +1,4 @@
-package com.leocardz.link.preview.library.url;
+package com.coder.link.preview.library.url;
 
 import java.util.List;
 

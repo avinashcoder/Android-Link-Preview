@@ -1,7 +1,6 @@
-package com.leocardz.link.preview;
+package com.coder.link.preview;
 
 import android.app.Activity;
-import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.net.Uri;
@@ -25,9 +24,9 @@ import android.widget.TextView.OnEditorActionListener;
 
 import com.koushikdutta.urlimageviewhelper.UrlImageViewCallback;
 import com.koushikdutta.urlimageviewhelper.UrlImageViewHelper;
-import com.leocardz.link.preview.library.LinkPreviewCallback;
-import com.leocardz.link.preview.library.SourceContent;
-import com.leocardz.link.preview.library.TextCrawler;
+import com.coder.link.preview.library.LinkPreviewCallback;
+import com.coder.link.preview.library.SourceContent;
+import com.coder.link.preview.library.TextCrawler;
 
 import java.util.List;
 import java.util.Random;

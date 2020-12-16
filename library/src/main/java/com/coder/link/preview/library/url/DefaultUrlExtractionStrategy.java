@@ -1,7 +1,7 @@
-package com.leocardz.link.preview.library.url;
+package com.coder.link.preview.library.url;
 
-import com.leocardz.link.preview.library.SearchUrls;
-import com.leocardz.link.preview.library.TextCrawler;
+import com.coder.link.preview.library.SearchUrls;
+import com.coder.link.preview.library.TextCrawler;
 
 import java.util.List;
 

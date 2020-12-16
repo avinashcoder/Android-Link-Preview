@@ -1,9 +1,9 @@
-package com.leocardz.link.preview.library;
+package com.coder.link.preview.library;
 
 import android.os.AsyncTask;
 
-import com.leocardz.link.preview.library.url.DefaultUrlExtractionStrategy;
-import com.leocardz.link.preview.library.url.UrlExtractionStrategy;
+import com.coder.link.preview.library.url.DefaultUrlExtractionStrategy;
+import com.coder.link.preview.library.url.UrlExtractionStrategy;
 
 import org.jsoup.Jsoup;
 import org.jsoup.UnsupportedMimeTypeException;
